@@ -1,0 +1,6 @@
+{
+  "id": "clev4vrbt0002l908gmbi7l4y",
+  "name": "moderna",
+  "distDir": "moderna",
+  "buildCommand": "git status"
+}
